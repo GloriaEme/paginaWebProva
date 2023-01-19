@@ -2,7 +2,7 @@
   <v-app>
     <v-main>
       <v-row>
-        <v-col>
+        <v-col style="text-align: right ;">
           <nuxt-link to="/">Inici</nuxt-link>
           <nuxt-link to="/empresa">Empresa</nuxt-link>
           <nuxt-link to="/productes">Productes</nuxt-link>
